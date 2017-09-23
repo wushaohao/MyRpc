@@ -1,0 +1,5 @@
+com/wh/myrpc/impl/ServiceScanSVImpl2.class
+com/wh/myrpc/interfaces/IHelloServiceSV.class
+com/wh/myrpc/bean/Person.class
+com/wh/myrpc/impl/HelloServiceImpl.class
+com/wh/myrpc/RpcServerStart.class

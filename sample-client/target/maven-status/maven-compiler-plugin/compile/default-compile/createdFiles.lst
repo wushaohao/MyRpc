@@ -1,0 +1,3 @@
+com/wh/myrpc/client/HelloClient.class
+com/wh/myrpc/client/sample/api/HelloService.class
+com/wh/myrpc/client/sample/api/Person.class

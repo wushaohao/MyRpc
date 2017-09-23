@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyRpc.iml" filepath="$PROJECT_DIR$/MyRpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-client/client.iml" filepath="$PROJECT_DIR$/rpc-client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-registry/rpc-registry.iml" filepath="$PROJECT_DIR$/rpc-registry/rpc-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/rpc-server/rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-zookeeper-registry/rpc-zookeeper-registry.iml" filepath="$PROJECT_DIR$/rpc-zookeeper-registry/rpc-zookeeper-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-client/sample-client.iml" filepath="$PROJECT_DIR$/sample-client/sample-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-server/sample-server.iml" filepath="$PROJECT_DIR$/sample-server/sample-server.iml" />
+    </modules>
+  </component>
+</project>
